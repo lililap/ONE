@@ -1,5 +1,0 @@
-commit 9a3a336c1082f2bb581302abd5f4e6d0fa7fb196
-Author: Lidia <lidia@192.168.1.14>
-Date:   Wed Jan 22 10:51:32 2025 -0300
-
-    projeto-inicial
