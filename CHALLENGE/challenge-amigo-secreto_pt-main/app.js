@@ -25,6 +25,7 @@ function sortearAmigo () {
     if (amigos.length == ''){
         alert('Sua lista de amigos está vazia!');
         resultado.innerHTML = 'Você precisa escolher nomes para a lista antes de sortear';
+        return;
     }
     // gerar índice aleatório
     let indice = Math.floor(Math.random() * amigos.length);
