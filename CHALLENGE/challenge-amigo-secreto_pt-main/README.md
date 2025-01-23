@@ -10,3 +10,8 @@
 
 Este projeto foi desenvolvido com o objetivo de concluir o desafio proposto no curso de Lógica de programação, parte da seleção do programa Oracle Next Education (https://www.oracle.com/br/education/oracle-next-education/), disponibilizado e apoiado pela Alura (https://www.alura.com.br/).
 
+<h2>Funcionalidades do Projeto</h2>
+- Funcionalidade 1: Adicionar nomes de amigos
+- Funcionalidade 2: Sortear um nome aleatoriamente
+- Funcionalidade 3: Mensagem de erro caso nenhum nome seja inserido
+
