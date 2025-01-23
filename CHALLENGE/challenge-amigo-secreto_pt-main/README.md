@@ -22,4 +22,12 @@ Este projeto foi desenvolvido com o objetivo de concluir o desafio proposto no c
 </div><div>
 - Passo 3: Abrir o arquivo index.html <div><img src="https://github.com/user-attachments/assets/0ec75739-8354-43c7-a921-7d19e8d0722a" alt="tela explicativa passo 3"></div><div>
 - Passo 4: Inserir nomes de amigos no campo indicado <div><img src="https://github.com/user-attachments/assets/3f059e10-290e-4550-92b8-c52263d0887e" alt="tela explicativa passo 4"></div><div>
-- Passo 5: Realizar o sorteio! </div><div><img src="https://github.com/user-attachments/assets/a52768ca-ef81-4278-ac28-5afeb8e308c9" alt="tela explicativa passo 5"></div>
+- Passo 5: Realizar o sorteio! </div><div><img src="https://github.com/user-attachments/assets/a52768ca-ef81-4278-ac28-5afeb8e308c9" alt="tela explicativa passo 5"></div><div>
+
+<h2>Autores</h2></div><div>
+<img src="https://github.com/user-attachments/assets/0b215072-ac42-40bf-a7a4-4e3b71720b85" alt="imagem autora do projeto">
+</div><div>
+Lidia Lapertosa</div><div> 
+LinkedIn: https://www.linkedin.com/in/lidia-lapertosa/</div><div>
+Em caso de dúvidas, entre em contato!
+</div>
