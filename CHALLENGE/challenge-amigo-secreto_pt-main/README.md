@@ -8,5 +8,5 @@
 
 ![Static Badge](https://img.shields.io/badge/language-javascript-%23fe652b) ![Static Badge](https://img.shields.io/badge/status-finished-%23fe652b) ![Static Badge](https://img.shields.io/badge/version-1.2-%23fe652b)
 
-
+Este projeto foi desenvolvido com o objetivo de concluir o desafio proposto no curso de Lógica de programação, parte da seleção do programa Oracle Next Education (https://www.oracle.com/br/education/oracle-next-education/), disponibilizado e apoiado pela Alura (https://www.alura.com.br/).
 
